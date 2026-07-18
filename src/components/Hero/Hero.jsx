@@ -106,24 +106,23 @@ const handleSubmit = async (e) => {
             Early Access Open
           </div>
 
-          <h1>
-            Build Websites
-            <span className="gradient-text">
-              {" "}at the Speed of Thought.
-            </span>
-          </h1>
+            <h1>
+  Build, Launch & Grow
+  <span className="gradient-text">
+    {" "}with AI.
+  </span>
+</h1>
 
           <div className="waitlist-count">
    <strong>{displayCount}+</strong> Founding Members
 </div>
           <p>
-            Describe your idea once.
-            Algoritus generates a beautiful,
-            responsive, SEO-ready website in minutes.
+  Algoritus is building AI-powered software that helps businesses build websites,
+  automate repetitive work, and launch faster.
 
-            Join early access and help shape
-            the future of website creation.
-          </p>
+  Start with our AI Website Generator and get early access to the next generation
+  of AI products we're building.
+</p>
 
           <form
   className="hero-form"
